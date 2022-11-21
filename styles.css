@@ -11,10 +11,12 @@ nav {
 	background:#000;
 	position:absolute;
 	left:0;
+	right: 3;
 	z-index:-1;
   }
   
   ul{
+	right: 3;
 	margin:0;
 	padding:0;
 	list-style:none;
@@ -22,10 +24,12 @@ nav {
   }
   
   ul li{
+	right: 3;
 	float:left;
   }
   
   ul li a{
+	right: 3;
 	color:#fff;
 	display:block;
 	height:50px;
