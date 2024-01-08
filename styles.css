@@ -51,7 +51,7 @@ nav {
 }  
 @media screen and(max-width: 976px) {
   .li {
-    font-size: 70px
+    font-size: 50px
   }
   .nav{ display:block}
   .nav-item{display:block}
