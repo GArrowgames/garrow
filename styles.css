@@ -42,3 +42,18 @@ nav {
   ul li a:hover{
 	background:#d34d43;
   }
+@media screen and(max-width: 1200px) {
+  .li {
+    
+    font-size: 80px
+  }
+    .nav{ display:block}
+}  
+@media screen and(max-width: 976px) {
+  .li {
+    font-size: 70px
+  }
+  .nav{ display:block}
+  .nav-item{display:block}
+}
+  
